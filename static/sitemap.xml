@@ -1,0 +1,59 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://blog.delrioe.live</loc>
+      <lastmod>Wed, 27 Jan 2021 00:42:23 GMT</lastmod>
+      <priority>1.0</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/test-svelte</loc>
+      <lastmod>Tue, 26 Jan 2021 20:23:29 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/welcome</loc>
+      <lastmod>Tue, 26 Jan 2021 16:36:20 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/the-editor</loc>
+      <lastmod>Tue, 26 Jan 2021 16:36:20 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/publishing-options</loc>
+      <lastmod>Tue, 26 Jan 2021 16:36:20 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/admin-settings</loc>
+      <lastmod>Tue, 26 Jan 2021 16:36:20 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/organising-content</loc>
+      <lastmod>Tue, 26 Jan 2021 16:36:20 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/apps-integrations</loc>
+      <lastmod>Tue, 26 Jan 2021 16:36:20 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+    <url>
+      <loc>https://blog.delrioe.live/blog/themes</loc>
+      <lastmod>Tue, 26 Jan 2021 16:36:20 GMT</lastmod>
+      <priority>0.80</priority>
+    </url>
+    
+  </urlset>
+  
